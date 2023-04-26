@@ -21,5 +21,5 @@ Projeto prático, com referencia no curso da Udemy do [Macoratti](https://github
 - [Axios](https://axios-http.com/docs/intro)
 - [Reactstrap](https://6-4-0--reactstrap.netlify.app/)
 
-<img src="front-react.png" align="left" width="700px" alt="imagem do front end da aplicação react" style="text-align:center"/>
+- <img src="front-react.png" align="left" width="700px" alt="imagem do front end da aplicação react" style="text-align:center"/>
 
