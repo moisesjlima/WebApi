@@ -1,6 +1,6 @@
 # Web Api / consumindo API com React
 
-Projeto prático para testar os conhecimentos, onde foi criado uma API utilizando a ASP.NET Core Web Api com C# e em seguida criado o projeto com React para consumir esta API localmente
+Projeto prático, com referencia no curso da Udemy do [Macoratti](https://github.com/macoratti) para testar os conhecimentos, onde foi criado uma API utilizando a ASP.NET Core Web Api com C# e em seguida criado o projeto com React para consumir esta API localmente e realizar o CRUD
 
 ### Tecnologias/Ferramentas/Conceitos utilizados
 
@@ -20,3 +20,6 @@ Projeto prático para testar os conhecimentos, onde foi criado uma API utilizand
 - [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - [Axios](https://axios-http.com/docs/intro)
 - [Reactstrap](https://6-4-0--reactstrap.netlify.app/)
+
+<img src="front-react.png" align="left" width="700px" alt="imagem do front end da aplicação react" style="text-align:center"/>
+
