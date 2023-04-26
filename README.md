@@ -1,4 +1,4 @@
-# Web Api / consumindo API com React
+# Web Api / Consumindo API com React
 
 Projeto prático, com referencia no curso da Udemy do [Macoratti](https://github.com/macoratti) para testar os conhecimentos, onde foi criado uma API utilizando a ASP.NET Core Web Api com C# e em seguida criado o projeto com React para consumir esta API localmente e realizar o CRUD
 
